@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js, MongoDB and bootstrap**
 
-- 👨‍💻 All of my projects are available at [briannewton.tech](briannewton.tech)
+- 👨‍💻 All of my projects are available at [www.briannewton.tech](https://www.briannewton.tech)
 
 - 💬 Ask me about **react || firebase || react native || AWS**
 
