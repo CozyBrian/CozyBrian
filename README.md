@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/cozytesla" target="blank"><img src="https://img.shields.io/twitter/follow/cozytesla?logo=twitter&style=for-the-badge" alt="cozytesla" /></a> </p>
 
-- 🌱 I’m currently learning **Sockets and webRTC**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [www.briannewton.tech](https://www.briannewton.tech)
 
