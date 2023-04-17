@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [www.briannewton.tech](https://www.briannewton.tech)
+- 👨‍💻 All of my projects are available at [www.briannewton.me](https://www.briannewton.me)
 
 - 💬 Ask me about **react || firebase || NodeJs || AWS**
 
