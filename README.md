@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brian Newton</h1>
 <h3 align="center">A Computer Science Student in KNUST and passionate Software developer.</h3>
 
-<p align="left"> <a href="https://twitter.com/cozytesla" target="blank"><img src="https://img.shields.io/twitter/follow/cozytesla?logo=twitter&style=for-the-badge" alt="cozytesla" /></a> </p>
+<p align="left"> <a href="https://twitter.com/CozyBrian_" target="blank"><img src="https://img.shields.io/twitter/follow/CozyBrian_?logo=twitter&style=for-the-badge" alt="CozyBrian_" /></a> </p>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Spring Boot & Swift**
 
 - 👨‍💻 All of my projects are available at [www.briannewton.me](https://www.briannewton.me)
 
