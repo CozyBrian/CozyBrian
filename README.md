@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot & Swift**
 
-- 👨‍💻 All of my projects are available at [www.briannewton.me](https://www.briannewton.me)
+- 👨‍💻 All of my projects are available at [www.briannewton.dev](https://www.briannewton.dev)
 
 - 💬 Ask me about **react || firebase || NodeJs || AWS**
 
