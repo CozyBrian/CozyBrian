@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [www.briannewton.dev](https://www.briannewton.dev)
 
-- 💬 Ask me about **react || firebase || NodeJs || AWS**
+- 💬 Ask me about **react || Swift || NodeJs || AWS**
 
 - 📫 How to reach me **kwabenanewton02@gmail.com**
 
