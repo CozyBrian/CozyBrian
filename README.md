@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot & Swift**
 
-- 👨‍💻 All of my projects are available at [www.cozybrian.dev](https://www.cozy.dev)
+- 👨‍💻 All of my projects are available at [www.cozybrian.dev](https://www.cozybrian.dev)
 
 - 💬 Ask me about **react || Swift || NodeJs || AWS**
 
